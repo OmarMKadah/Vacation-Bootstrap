@@ -1,0 +1,24 @@
+h1 {
+  font-style: oblique;
+  font-size: 20px;
+  text-decoration: underline;
+
+}
+
+h2 {
+  font-size: 15px;
+  text-decoration:
+}
+
+.float1 {
+  float:left;
+  text-margin: 50px;
+}
+.float3 {
+  float:left;
+}
+
+.fluffy {
+  color:teal;
+  background-color: black;
+}
